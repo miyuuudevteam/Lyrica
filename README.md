@@ -1,2 +1,2 @@
 # Lyrica
-A open-source community rhythm game
+will be making this soon
